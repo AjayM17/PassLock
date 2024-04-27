@@ -1,0 +1,7 @@
+{
+  "name": "passlock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
